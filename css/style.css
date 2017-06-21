@@ -77,7 +77,7 @@ a:focus{
 .menu{
 	width: 300px;
 	display: block;
-	background: #333;
+	background: #7268af;
 	height: 100%;
 	top: 0;
 	right: -300px;
@@ -388,7 +388,7 @@ form{
 
 footer{
 	padding: 75px 0;
-	background-color: #333;
+	background-color: #7268af;
 	color: #fff;
 }
 
